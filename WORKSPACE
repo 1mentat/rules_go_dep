@@ -1,4 +1,4 @@
-workspace(name = "rules_go_dep")
+workspace(name = "com_github_1mentat_rules_go_dep")
 
 # ================================================================
 
